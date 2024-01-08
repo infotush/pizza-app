@@ -1,4 +1,5 @@
 Pizza Delivery App
+
 Welcome to the Pizza Delivery App repository! This React application is built with Vite for a blazing-fast development experience, utilizes Redux Toolkit for state management, and embraces the power of Tailwind CSS for sleek and responsive styling.
 
 Features
